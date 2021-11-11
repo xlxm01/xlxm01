@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate team leader. I specialize in web development projects.</h3>
 
+<h3 align="left">Soy licenciada en análisis de sistemas,  actualmente me especializo en gestionar proyectos web, resido en Neuquén.
+Tengo capacidad para armar, motivar y guiar un equipo humano para alcanzar los objetivos propuestos, generando un ambiente de trabajo comprometido y enfocado, aun en momentos críticos y en entornos cambiantes. 
+Aplicó metodologías ágiles, me enfocó en las habilidades de cada integrante para lograr productos funcionales entregables en los tiempos fijados.
+Me interesa seguir capacitándome en habilidades blandas de liderazgo, en idiomas y conocimientos técnicos.</h3>
+
 - 🌱 I’m currently learning **Python and Power Bi.**
 
 - 💬 Ask me about **php, project management, soft skills**
